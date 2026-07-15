@@ -1,0 +1,12 @@
+'EOF'
+# Compiled files
+*.out
+*.o
+*.exe
+a.out
+
+# Editor files
+*.swp
+*~
+.vscode/
+EOF
