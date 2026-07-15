@@ -1,4 +1,4 @@
-Here are 200 C programming coding-round interview questions, organized by topic:
+# These are 200 C programming coding-round interview questions, organized by topic:
 
 **Basic Programming & Math**
 1. Write a program to check whether a number is prime or not.
@@ -157,75 +157,129 @@ Here are 200 C programming coding-round interview questions, organized by topic:
 140. Write a program to sort an array in descending order.
 
 **Searching**
+
 141. Write a program to implement linear search.
+
 142. Write a program to implement binary search.
+
 143. Write a program to find the first and last occurrence of an element in a sorted array.
+
 144. Write a program to search for an element in a rotated sorted array.
 
 **Linked Lists**
 145. Write a program to implement a singly linked list with insertion and traversal.
+
 146. Write a program to insert a node at the beginning of a linked list.
+
 147. Write a program to insert a node at the end of a linked list.
+
 148. Write a program to delete a node from a linked list.
+
 149. Write a program to reverse a linked list.
+
 150. Write a program to reverse a linked list using recursion.
+
 151. Write a program to find the middle element of a linked list.
+
 152. Write a program to detect a loop in a linked list.
+
 153. Write a program to find the length of a linked list.
+
 154. Write a program to remove duplicates from a sorted linked list.
+
 155. Write a program to merge two sorted linked lists.
+
 156. Write a program to find the nth node from the end of a linked list.
+
 157. Write a program to check whether a linked list is a palindrome.
+
 158. Write a program to implement a doubly linked list.
+
 159. Write a program to implement a circular linked list.
+
 160. Write a program to swap two nodes in a linked list without swapping data.
+
 161. Write a program to sort a linked list.
+
 162. Write a program to add two numbers represented as linked lists.
+
 163. Write a program to remove a loop in a linked list.
+
 164. Write a program to find the intersection point of two linked lists.
 
 **Stacks and Queues**
 165. Write a program to implement a stack using an array.
+
 166. Write a program to implement a stack using a linked list.
+
 167. Write a program to implement a queue using an array.
+
 168. Write a program to implement a queue using a linked list.
+
 169. Write a program to implement a circular queue.
+
 170. Write a program to check for balanced parentheses using a stack.
+
 171. Write a program to evaluate a postfix expression using a stack.
+
 172. Write a program to convert an infix expression to postfix using a stack.
+
 173. Write a program to implement a stack using two queues.
+
 174. Write a program to implement a queue using two stacks.
+
 175. Write a program to reverse a stack using recursion.
 
 **Bit Manipulation**
 176. Write a program to check whether a number is a power of two.
+
 177. Write a program to count the number of set bits in an integer.
+
 178. Write a program to find the only non-repeating element in an array where every other element repeats twice.
+
 179. Write a program to check whether two numbers have opposite signs using bitwise operators.
+
 180. Write a program to check whether the nth bit of a number is set or not.
+
 181. Write a program to set, clear, and toggle a specific bit of a number.
+
 182. Write a program to find the position of the rightmost set bit in a number.
 
 **Structures and Unions**
 183. Write a program to use structures to store and display student records.
+
 184. Write a program to demonstrate an array of structures.
+
 185. Write a program to demonstrate nested structures.
+
 186. Write a program to demonstrate the use of unions and explain the difference from structures.
+
 187. Write a program to pass a structure to a function.
+
 188. Write a program to demonstrate the use of typedef with structures.
 
 **File Handling**
 189. Write a program to read and write data to a text file.
+
 190. Write a program to count the number of characters, words, and lines in a file.
+
 191. Write a program to copy the contents of one file to another.
+
 192. Write a program to append data to an existing file.
+
 193. Write a program to merge the contents of two files into a third file.
 
 **Miscellaneous**
 194. Write a program to demonstrate variable-length arguments using stdarg.h.
+
 195. Write a program to implement a simple calculator using switch-case.
+
 196. Write a program to demonstrate the use of command-line arguments in C.
+
 197. Write a program to find the size of a data type without using the sizeof() operator.
+
 198. Write a program to implement a basic hash table using arrays and linked lists (separate chaining).
+
 199. Write a program to implement your own versions of malloc() and free() using a static memory pool.
+
 200. Write a program to convert a given infix expression directly to prefix notation.
