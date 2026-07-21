@@ -5,7 +5,7 @@
 int factorial(int n);
 
 int main(){
-	printf("\n")
+	printf("\nProgram to calculate Factorial.");
 	// defining varialble
 	int n,res;
 	printf("\nEnter the number : ");
