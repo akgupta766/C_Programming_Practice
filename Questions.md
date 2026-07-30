@@ -1,6 +1,29 @@
-# These are 200 C programming coding-round interview questions, organized by topic:
+# 200 C Programming Coding-Round Interview Questions
 
-**Basic Programming & Math**
+*Organized by topic for interview and coding-round preparation.*
+
+## Table of Contents
+
+- [Basic Programming & Math](#basic-programming--math) — 1–30
+- [Pattern Printing](#pattern-printing) — 31–36
+- [Arrays](#arrays) — 37–67
+- [2D Arrays / Matrices](#2d-arrays--matrices) — 68–78
+- [Strings](#strings) — 79–107
+- [Pointers](#pointers) — 108–120
+- [Recursion](#recursion) — 121–130
+- [Sorting](#sorting) — 131–140
+- [Searching](#searching) — 141–144
+- [Linked Lists](#linked-lists) — 145–164
+- [Stacks and Queues](#stacks-and-queues) — 165–175
+- [Bit Manipulation](#bit-manipulation) — 176–182
+- [Structures and Unions](#structures-and-unions) — 183–188
+- [File Handling](#file-handling) — 189–193
+- [Miscellaneous](#miscellaneous) — 194–200
+
+---
+
+## Basic Programming & Math
+
 1. Write a program to check whether a number is prime or not.
 2. Write a program to check whether a number is a palindrome.
 3. Write a program to find the factorial of a number using loops.
@@ -32,7 +55,8 @@
 29. Write a program to print the multiplication table of a number.
 30. Write a program to check whether a number is a strong number.
 
-**Pattern Printing**
+## Pattern Printing
+
 31. Write a program to print a pyramid pattern of stars.
 32. Write a program to print an inverted pyramid pattern of stars.
 33. Write a program to print a diamond pattern of stars.
@@ -40,7 +64,8 @@
 35. Write a program to print Floyd's triangle.
 36. Write a program to print a pyramid pattern of numbers.
 
-**Arrays**
+## Arrays
+
 37. Write a program to find the largest element in an array.
 38. Write a program to find the second largest element in an array.
 39. Write a program to find the smallest element in an array.
@@ -73,7 +98,8 @@
 66. Write a program to check if two arrays are equal.
 67. Write a program to sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
 
-**2D Arrays / Matrices**
+## 2D Arrays / Matrices
+
 68. Write a program to add two matrices.
 69. Write a program to subtract two matrices.
 70. Write a program to multiply two matrices.
@@ -86,7 +112,8 @@
 77. Write a program to represent a sparse matrix.
 78. Write a program to search for an element in a 2D matrix.
 
-**Strings**
+## Strings
+
 79. Write a program to reverse a string without using a library function.
 80. Write a program to check whether a string is a palindrome.
 81. Write a program to count the number of vowels and consonants in a string.
@@ -117,7 +144,8 @@
 106. Write a program to count the frequency of a substring within a string.
 107. Write a program to find the longest common prefix among an array of strings.
 
-**Pointers**
+## Pointers
+
 108. Write a program to demonstrate pointer arithmetic on an array.
 109. Write a program to swap two numbers using pointers.
 110. Write a program to demonstrate the use of a pointer to a pointer.
@@ -132,7 +160,8 @@
 119. Write a program to demonstrate the use of a void pointer.
 120. Write a program to demonstrate the difference between call by value and call by reference.
 
-**Recursion**
+## Recursion
+
 121. Write a recursive program to find the sum of digits of a number.
 122. Write a recursive program to reverse a string.
 123. Write a recursive program to check whether a string is a palindrome.
@@ -144,7 +173,8 @@
 129. Write a recursive program to generate all permutations of a string.
 130. Write a recursive program to print all subsets of a set.
 
-**Sorting**
+## Sorting
+
 131. Write a program to implement bubble sort.
 132. Write a program to implement selection sort.
 133. Write a program to implement insertion sort.
@@ -156,130 +186,83 @@
 139. Write a program to sort an array of strings alphabetically.
 140. Write a program to sort an array in descending order.
 
-**Searching**
+## Searching
 
 141. Write a program to implement linear search.
-
 142. Write a program to implement binary search.
-
 143. Write a program to find the first and last occurrence of an element in a sorted array.
-
 144. Write a program to search for an element in a rotated sorted array.
 
-**Linked Lists**
+## Linked Lists
+
 145. Write a program to implement a singly linked list with insertion and traversal.
-
 146. Write a program to insert a node at the beginning of a linked list.
-
 147. Write a program to insert a node at the end of a linked list.
-
 148. Write a program to delete a node from a linked list.
-
 149. Write a program to reverse a linked list.
-
 150. Write a program to reverse a linked list using recursion.
-
 151. Write a program to find the middle element of a linked list.
-
 152. Write a program to detect a loop in a linked list.
-
 153. Write a program to find the length of a linked list.
-
 154. Write a program to remove duplicates from a sorted linked list.
-
 155. Write a program to merge two sorted linked lists.
-
 156. Write a program to find the nth node from the end of a linked list.
-
 157. Write a program to check whether a linked list is a palindrome.
-
 158. Write a program to implement a doubly linked list.
-
 159. Write a program to implement a circular linked list.
-
 160. Write a program to swap two nodes in a linked list without swapping data.
-
 161. Write a program to sort a linked list.
-
 162. Write a program to add two numbers represented as linked lists.
-
 163. Write a program to remove a loop in a linked list.
-
 164. Write a program to find the intersection point of two linked lists.
 
-**Stacks and Queues**
+## Stacks and Queues
+
 165. Write a program to implement a stack using an array.
-
 166. Write a program to implement a stack using a linked list.
-
 167. Write a program to implement a queue using an array.
-
 168. Write a program to implement a queue using a linked list.
-
 169. Write a program to implement a circular queue.
-
 170. Write a program to check for balanced parentheses using a stack.
-
 171. Write a program to evaluate a postfix expression using a stack.
-
 172. Write a program to convert an infix expression to postfix using a stack.
-
 173. Write a program to implement a stack using two queues.
-
 174. Write a program to implement a queue using two stacks.
-
 175. Write a program to reverse a stack using recursion.
 
-**Bit Manipulation**
+## Bit Manipulation
+
 176. Write a program to check whether a number is a power of two.
-
 177. Write a program to count the number of set bits in an integer.
-
 178. Write a program to find the only non-repeating element in an array where every other element repeats twice.
-
 179. Write a program to check whether two numbers have opposite signs using bitwise operators.
-
 180. Write a program to check whether the nth bit of a number is set or not.
-
 181. Write a program to set, clear, and toggle a specific bit of a number.
-
 182. Write a program to find the position of the rightmost set bit in a number.
 
-**Structures and Unions**
+## Structures and Unions
+
 183. Write a program to use structures to store and display student records.
-
 184. Write a program to demonstrate an array of structures.
-
 185. Write a program to demonstrate nested structures.
-
 186. Write a program to demonstrate the use of unions and explain the difference from structures.
-
 187. Write a program to pass a structure to a function.
-
 188. Write a program to demonstrate the use of typedef with structures.
 
-**File Handling**
+## File Handling
+
 189. Write a program to read and write data to a text file.
-
 190. Write a program to count the number of characters, words, and lines in a file.
-
 191. Write a program to copy the contents of one file to another.
-
 192. Write a program to append data to an existing file.
-
 193. Write a program to merge the contents of two files into a third file.
 
-**Miscellaneous**
+## Miscellaneous
+
 194. Write a program to demonstrate variable-length arguments using stdarg.h.
-
 195. Write a program to implement a simple calculator using switch-case.
-
 196. Write a program to demonstrate the use of command-line arguments in C.
-
 197. Write a program to find the size of a data type without using the sizeof() operator.
-
 198. Write a program to implement a basic hash table using arrays and linked lists (separate chaining).
-
 199. Write a program to implement your own versions of malloc() and free() using a static memory pool.
-
 200. Write a program to convert a given infix expression directly to prefix notation.
